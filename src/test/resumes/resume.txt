@@ -1,0 +1,101 @@
+PETERBUE
+
+SOFTWARE ENGINEER
+
+PROFILE
+Resourceful, self-motivated, software engineer seeking a position in a corporate
+environment. Ideally, a new position would utilize my diverse experiences, skills, and
+problem-solving abilities in order to best support my new team.
+
+5640B 31st Avenue SW,
+Seattle, WA 98126
+
+(253) 329-9410
+
+PETERGRANTBUE@ GMAIL. COM
+
+LINKEDIN. COM/ IN/ PETER-BUE
+
+GOODBLOCK, 06/2018-PRESENT
+LEAD SOFTWARE ENGINEER
+Provided scalable software solutions by leveraging next generation decentralized
+blockchain technologies alongside distributed Microservice architectures. Lead
+development and deployment of international blockchain.
+• Collaborated with project managers and user experience designers to deliver
+feature rich user interfaces.
+• Designed and implemented Microservice API gateways using Node.js, Express, and
+GraphQL.
+• Implemented CI/CD build automation with Travis CI and Python.
+• Designed and implemented decentralized smart contracts in C++ for EOSIO based
+blockchains.
+• Implemented automated unit testing suites for smart contracts and tool chains.
+• International Collaboration on open source project.
+FORREST-PRUZAN CREATIVE, 2013 – 06/2018
+SOFTWARE ENGINEER/DEVELOPER
+Employed as a software engineer and game developer. Provided object-oriented
+software designs and implementations, for both internal and external applications.
+With a primary focus in C# and .NET Framework, with the use of many other front-end
+and back-end technologies.
+• DISNEY’S PICTOPIA: Helped refactor large portions of the original design and
+implementation. Refactor included the addition of a downloadable content
+management system, and IAP integration for the Kindle, iOS, and Android
+platforms.
+• GEM JUNCTION: As the lead developer, I managed other developers in the design
+and implementation of this product. Responsibilities included:
+ Designing software hierarchy;
+ Modeling requirements;
+ Maintaining documentation;
+ Coordinating team effort; and
+ Implementing object oriented systems for both front-end and back-end
+layers.
+• INTERNAL DATABASE APPLICATIONS: Worked on internal client tracking
+applications, which included implementing front-end technologies such as JQuery/
+Javascript, HTML/CSS, and back-end technologies such as, ASP.NET and SQL.
+OSBORN MACHLER, PLLC, 2004 – 2014
+SYSTEMS ADMINISTRATOR
+As the Systems Administrator at Osborn Machler, it was my responsibility to maintain
+the required services for the office, such as, Microsoft Server 2012, network security,
+phone systems, security cameras, and basic network access. This required providing
+routine maintenance and large scale repairs with minimum possible down time.
+
+PETERBUE
+
+PAGE 2 of 2
+
+SOFTWARE ENGINEER
+
+INFOTECH SYSTEMS, 2007 – 2013
+IT MANAGER
+As the IT Manager, my responsibilities included: on-site and in-store customer service
+and technical diagnosis of consumer computer products; on-site and in-store computer
+triage and repair; as well as customer service diagnosis and technical solutions over the
+phone.
+As manager of Technical Department, my responsibilities included parts management,
+employee supervision, as well as employee training.
+EDUCATION
+THOMAS JEFFERSON HIGH SCHOOL, 2006 Alum
+Graduated with an A+ Certification, and experience in web design, electronics repair.
+OCCUPATIONAL SKILLS CENTER, 2006 Alum
+Network Systems – Trained for A+ Certification, HTI, Net+, MCSE, CCNA.
+
+5640B 31st Avenue SW,
+Seattle, WA 98126
+
+(253) 329-9410
+
+PETERGRANTBUE@ GMAIL. COM
+
+LINKEDIN. COM/ IN/ PETER-BUE
+
+HIGHLINE COLLEGE
+AS – Assoc. of Science
+Primary focus in software and web development. Completed capstones classes,
+where student lead software development teams competed in the development of
+internal database tools for school use.
+SEATTLE CENTRAL COLLEGE, PRESENT
+Primary focus in mathematics, engineering, and physics.
+REFERENCES
+CRAIG BRANSCOM - SOFTWARE ENGINEER
+Phone: (540) 239-9263
+ED SILVA -SOFTWARE ENGINEER
+Avanade Inc.

@@ -1,0 +1,45 @@
+{
+  "name": "resume-ats",
+  "version": "1.0.0",
+  "description": "Parse key words from resumes.",
+  "main": "src/server.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "dev": "nodemon src/server.ts",
+    "prod": "node dist/server.js",
+    "build": "rm -rf dist/* && tsc",
+    "build:run": "yarn build && yarn prod",
+    "test": "jest"
+  },
+  "author": "Peter Bue",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "js-logger": "^1.6.0",
+    "lodash": "4.17.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-typescript": "^7.8.3",
+    "@types/cors": "^2.8.4",
+    "@types/dotenv": "^6.1.1",
+    "@types/express": "^4.16.1",
+    "@types/lodash": "^4.14.149",
+    "@types/node": "12.12.6",
+    "@types/jest": "^25.1.2",
+    "@typescript-eslint/eslint-plugin": "2.19.0",
+    "@typescript-eslint/parser": "2.19.0",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0",
+    "nodemon": "^1.18.10",
+    "prettier": "^1.16.4",
+    "typescript": "^3.4.5",
+    "ts-node": "8.6.2"
+  }
+}
