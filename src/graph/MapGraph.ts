@@ -40,7 +40,7 @@ export class GraphNode {
     }
 
     public isLeaf(): boolean {
-        return this.children.size > 0
+        return this.children.size == 0
     }
 }
 
